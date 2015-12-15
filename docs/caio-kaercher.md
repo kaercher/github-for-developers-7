@@ -9,3 +9,5 @@ A favorite food: Pizza
 A hobby: Read
 
 My favorite color: Green
+
+Fun Fact: I dont like writing about myself
